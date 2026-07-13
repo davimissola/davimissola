@@ -1,5 +1,5 @@
 ## Sobre mim:
-Sou estudante de Técnico em Informática no COTUCA - UNICAMP e tenho grande interesse por desenvolvimento de software. Gosto de aprender criando projetos práticos, explorando diferentes tecnologias e buscando escrever código cada vez mais organizado e eficiente.
+Sou estudante de Técnico em Informática no Colégio Técnico de Campinas - Unicamp e tenho grande interesse por desenvolvimento de software. Gosto de aprender criando projetos práticos, explorando diferentes tecnologias e buscando escrever código cada vez mais organizado e eficiente. Sou movido pela curiosidade e tenho um verdadeiro entusiasmo por estudar e absorver novos conhecimentos no geral, o que me mantém em constante evolução.
 
 Estou sempre em busca de novos desafios para evoluir como desenvolvedor, ampliar meus conhecimentos e construir uma carreira sólida na área de tecnologia.
 
