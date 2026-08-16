@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/dmissola"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/davi-missola-aa10a8302/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:davigarciamissola@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/dmissola"><img src="https://img.shields.io/badge/Instagram-1a1a1a.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/davi-missola-aa10a8302/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:davigarciamissola@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -22,12 +22,12 @@ Sou estudante de Técnico em Informática no Colégio Técnico de Campinas - Uni
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/fastapi-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logoColor=white)
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -42,9 +42,9 @@ Sou estudante de Técnico em Informática no Colégio Técnico de Campinas - Uni
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/davi-missola-aa10a8302/">LinkedIn</a>
+  <a href="https://instagram.com/dmissola"><img src="https://img.shields.io/badge/Instagram-1a1a1a.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   •
-  <a href="https://instagram.com/dmissola">Instagram</a>
+  <a href="https://www.linkedin.com/in/davi-missola-aa10a8302/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   •
-  <a href="mailto:davigarciamissola@gmail.com">E-mail</a>
+  <a href="mailto:davigarciamissola@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
