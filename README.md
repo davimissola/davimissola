@@ -24,8 +24,8 @@ Tenho um verdadeiro entusiasmo por estudar e absorver novos conhecimentos no ger
 <h2>Stacks</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/python-1a1a1a.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-1a1a1a.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi-1a1a1a.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-1a1a1a.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-1a1a1a.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1a1a1a.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-1a1a1a.svg?style=for-the-badge&logo=javascript&logoColor=white" />
