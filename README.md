@@ -13,8 +13,7 @@
 
 <br>
 <h2>Sobre mim</h2>
-Sou estudante de Técnico em Informática no Colégio Técnico de Campinas - Unicamp e tenho grande interesse por desenvolvimento de software. Gosto de aprender criando projetos práticos, explorando diferentes tecnologias e buscando escrever código cada vez mais organizado e eficiente. 
-Tenho um verdadeiro entusiasmo por estudar e absorver novos conhecimentos no geral, o que me mantém em constante evolução. Estou sempre em busca de novos desafios para evoluir como desenvolvedor, ampliar meus conhecimentos e construir uma carreira sólida na área de tecnologia.
+Sou estudante de 15 anos do curso Técnico em Informática no Colégio Técnico de Campinas - Unicamp, com foco em desenvolvimento full-stack. Tenho foco em Python, FastAPI, Django e construção de APIs REST no back-end, além de HTML, CSS e JavaScript no front-end, desenvolvendo projetos pessoais bem documentados, atuando como desenvolvedor freelancer para adquirir experiência em projetos do mundo real, aplicando sempre na prática os conceitos que estudo: estruturação de APIs, banco de dados, lógica de programação, interfaces modernas e boas práticas de código.
 <br>
 <br>
 
